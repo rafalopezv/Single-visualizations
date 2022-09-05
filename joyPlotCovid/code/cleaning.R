@@ -1,4 +1,8 @@
+#----------------------------------------
+# about: cleaning covid data
 # sobre: limpieza de bases para gráfico
+#----------------------------------------
+
 library(tidyverse)
 
 #-------------------------
