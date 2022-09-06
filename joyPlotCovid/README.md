@@ -1,10 +1,10 @@
 # About
 
-Wanted to make one summarizing all COVID-19 infections since day 1 until now
+Wanted to make one plot summarizing all COVID-19 infections since day 1 until now.
 
-Data is pulled from Hopkins GitHub repository. Wrangling and visualization is made with R and ggplot
+Data is pulled from Hopkins GitHub repository. Wrangling and visualization is made with R and ggplot.
 
-# Results
+# Result
 
 ![Screenshot](covid_all.png)
 
