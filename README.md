@@ -4,4 +4,8 @@ This repository contains individual static visualizations made primarly with ggp
 
 # Content
 
-- All countries Covid-19 curves in one plot
+- [All countries Covid-19 curves in one plot](https://github.com/rafalopezv/staticVIs/tree/master/joyPlotCovid/code)
+
+
+
+
