@@ -14,4 +14,7 @@ This repository contains individual static and interactive visualizations made w
 
 - [Rotating globe (D3 + Svelte)](https://github.com/rafalopezv/Single-visualizations/tree/master/globe)
 
+- [Best life possible (D3 + Svelte + R) ](https://github.com/rafalopezv/Single-visualizations/tree/master/beeswarm)
+
+
 ![covid_all](https://user-images.githubusercontent.com/17109075/189339483-6245d754-5100-4949-a623-8546ea6d2565.svg)
