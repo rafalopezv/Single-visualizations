@@ -8,7 +8,7 @@ This repository contains individual static and interactive visualizations made w
 
 - [Elevation line maps (D3 + Svelte + R) ](https://github.com/rafalopezv/Single-visualizations/tree/master/elevationLineMaps)
 
-- [Tracking progress over time (ggplot)](https://github.com/rafalopezv/Single-visualizations/tree/master/porogressOverTime)
+- [Tracking progress over time (ggplot)](https://github.com/rafalopezv/Single-visualizations/tree/master/progressOverTime)
 
 - [NY Times graph replica (ggplot)](https://github.com/rafalopezv/Single-visualizations/tree/master/nytCovidReplica)
 
