@@ -1,6 +1,6 @@
 # About
 
-This repository contains individual static visualizations made primarly with ggplot 
+This repository contains individual static and interactive visualizations made with ggplot, D3 & Svelte
 
 # Content
 
